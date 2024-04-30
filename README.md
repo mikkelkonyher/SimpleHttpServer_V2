@@ -4,7 +4,7 @@ Scenarie:	En bruger tilgår vores webserver, hvor der findes et helt basic eksem
 
 Udløsende begivenhed:	En bruger ønsker at lægge to tal sammen.
 
-Beskrivelse (brief):	1. Brugeren tilgår vores webserver på IP xxx.xxx.x.x:80.
+Beskrivelse (brief):	1. Brugeren tilgår vores webserver på IP xxx.xxx.x.x:8080.
 2. Brugeren taster 2 tal i hver deres felt.
 3. Brugeren klikker på enter knappen på skærmen.
 4. Resultatet vises på skærmen.
@@ -32,7 +32,7 @@ Scenarie:	En bruger tilgår vores webserver, hvor der findes et helt basic eksem
 
 Udløsende begivenhed:	En bruger ønsker at multiplicere to tal.
 
-Beskrivelse (brief):	1. Brugeren tilgår vores webserver på IP xxx.xxx.x.x:80.
+Beskrivelse (brief):	1. Brugeren tilgår vores webserver på IP xxx.xxx.x.x:8080.
 2. Brugeren taster 2 tal i hver deres felt.
 3. Brugeren klikker på enter knappen på skærmen.
 4. Resultatet vises på skærmen.
