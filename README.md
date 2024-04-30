@@ -24,8 +24,7 @@ Aktør	System:
 	1.1	Html siden vises.
 3.1 Koden bag webserveren udregner summen af de to tal og viser dem på skærmen.
 
-
-
+------------------------------------------------------------------------------
 
 Use case navn:	Lommeregner – Multiplicer to tal
 
