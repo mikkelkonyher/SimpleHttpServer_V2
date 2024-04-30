@@ -25,6 +25,8 @@ Aktør	System:
 3.1 Koden bag webserveren udregner summen af de to tal og viser dem på skærmen.
 
 
+
+
 Use case navn:	Lommeregner – Multiplicer to tal
 
 Scenarie:	En bruger tilgår vores webserver, hvor der findes et helt basic eksempel på en lommeregner, der multiplicerer to tal. Bruger indtaster to tal i hver deres felt og trykker på enter knappen. Systemet returnerer derefter resultatet.
