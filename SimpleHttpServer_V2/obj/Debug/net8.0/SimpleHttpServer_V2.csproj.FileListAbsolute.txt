@@ -12,3 +12,4 @@ C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj
 C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.pdb
 C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.genruntimeconfig.cache
 C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\ref\SimpleHttpServer_V2.dll
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.sourcelink.json

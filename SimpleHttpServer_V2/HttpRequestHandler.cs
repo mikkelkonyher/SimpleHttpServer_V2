@@ -52,12 +52,12 @@
             {
                 if (operation == "Add")
                 {
-                    int addOperator = int.Parse(num1) + int.Parse(num2);
+                    double addOperator = double.Parse(num1) + double.Parse(num2);
                     return $"<html><body>The sum of {num1} and {num2} is: {addOperator}</body></html>";
                 }
                 else if (operation == "Multiply")
                 {
-                    int multiplyOperator = int.Parse(num1) * int.Parse(num2);
+                    double multiplyOperator = double.Parse(num1) * double.Parse(num2);
                     return $"<html><body>The multiplication of {num1} and {num2} is: {multiplyOperator}</body></html>";
                 }
                 else
@@ -78,8 +78,8 @@
         <html>
         <body>
         <form method='get'>
-                                Number 1: <input type='number' name='num1'><br>
-                                Number 2: <input type='number' name='num2'><br>
+                                Number 1: <input type='number' step='any' name='num1'><br>
+                                Number 2: <input type='number' step='any' name='num2'><br>
         <input type='submit' name='operation' value='Add'>
         <input type='submit' name='operation' value='Multiply'>
         </form>

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\mikke\\Desktop\\Visual Studio\\SimpleHttpServer_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|c:\\users\\mikke\\desktop\\visual studio\\simplehttpserver_v2\\simplehttpserver_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|solutionrelative:simplehttpserver_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|c:\\users\\mikke\\desktop\\visual studio\\simplehttpserver_v2\\simplehttpserver_v2\\httprequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|solutionrelative:simplehttpserver_v2\\httprequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|c:\\users\\mikke\\desktop\\visual studio\\simplehttpserver_v2\\simplehttpserver_v2\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|solutionrelative:simplehttpserver_v2\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|c:\\users\\mikke\\desktop\\visual studio\\simplehttpserver_v2\\simplehttpserver_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78FFB3C-EE1B-41D9-9DB0-30245B53EAC4}|SimpleHttpServer_V2\\SimpleHttpServer_V2.csproj|solutionrelative:simplehttpserver_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HttpRequestHandler.cs",
               "DocumentMoniker": "C:\\Users\\mikke\\Desktop\\Visual Studio\\SimpleHttpServer_V2\\SimpleHttpServer_V2\\HttpRequestHandler.cs",
               "RelativeDocumentMoniker": "SimpleHttpServer_V2\\HttpRequestHandler.cs",
               "ToolTip": "C:\\Users\\mikke\\Desktop\\Visual Studio\\SimpleHttpServer_V2\\SimpleHttpServer_V2\\HttpRequestHandler.cs",
               "RelativeToolTip": "SimpleHttpServer_V2\\HttpRequestHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAABAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T06:12:45.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HttpResponse.cs",
               "DocumentMoniker": "C:\\Users\\mikke\\Desktop\\Visual Studio\\SimpleHttpServer_V2\\SimpleHttpServer_V2\\HttpResponse.cs",
               "RelativeDocumentMoniker": "SimpleHttpServer_V2\\HttpResponse.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HttpServer.cs",
               "DocumentMoniker": "C:\\Users\\mikke\\Desktop\\Visual Studio\\SimpleHttpServer_V2\\SimpleHttpServer_V2\\HttpServer.cs",
               "RelativeDocumentMoniker": "SimpleHttpServer_V2\\HttpServer.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mikke\\Desktop\\Visual Studio\\SimpleHttpServer_V2\\SimpleHttpServer_V2\\Program.cs",
               "RelativeDocumentMoniker": "SimpleHttpServer_V2\\Program.cs",
               "ToolTip": "C:\\Users\\mikke\\Desktop\\Visual Studio\\SimpleHttpServer_V2\\SimpleHttpServer_V2\\Program.cs",
               "RelativeToolTip": "SimpleHttpServer_V2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T06:06:58.775Z",
               "EditorCaption": ""
