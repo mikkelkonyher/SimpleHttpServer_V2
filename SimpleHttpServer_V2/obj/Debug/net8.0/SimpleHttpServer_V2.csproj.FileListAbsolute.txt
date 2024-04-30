@@ -1,0 +1,14 @@
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\bin\Debug\net8.0\SimpleHttpServer_V2.exe
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\bin\Debug\net8.0\SimpleHttpServer_V2.deps.json
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\bin\Debug\net8.0\SimpleHttpServer_V2.runtimeconfig.json
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\bin\Debug\net8.0\SimpleHttpServer_V2.dll
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\bin\Debug\net8.0\SimpleHttpServer_V2.pdb
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.AssemblyInfoInputs.cache
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.AssemblyInfo.cs
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.csproj.CoreCompileInputs.cache
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.dll
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\refint\SimpleHttpServer_V2.dll
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.pdb
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\SimpleHttpServer_V2.genruntimeconfig.cache
+C:\Users\mikke\Desktop\Visual Studio\SimpleHttpServer_V2\SimpleHttpServer_V2\obj\Debug\net8.0\ref\SimpleHttpServer_V2.dll
